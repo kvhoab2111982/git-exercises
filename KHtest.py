@@ -1,0 +1,1 @@
+print("Xin chao, Kieu Hoa day")
